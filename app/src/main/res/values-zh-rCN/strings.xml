@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 3.2 Resources</string>
+    <string name="message">你好，世界！</string>
+    <string name="show">猜猜我是谁？</string>
+    <string name="greeting">我是jw来RSF Group 4最帅的那个</string>
+</resources>
